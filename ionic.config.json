@@ -1,0 +1,8 @@
+{
+  "name": "ATR",
+  "app_id": "3bf22f4b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
